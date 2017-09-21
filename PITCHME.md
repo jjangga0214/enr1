@@ -24,14 +24,16 @@ Pitchme sub slide
 Hello Code Fragment [CF]
 
 +++
-### This is h3
-* el
-* el
-* el
 @[1-2]
 @[4]
 @[9-14]
-```
+
+### This is h3
+* el
+* el
+* el  
+
+```markdown
 ### This is h3
 * el
 * el
