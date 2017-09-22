@@ -32,83 +32,79 @@
 ---
 # How to use?
 +++
-문서제목
+document title
 ===
 ```markdown
-문서제목
+document title
 ===
 ```
 +++
-중제목
+medium title
 -----
 ```markdown
-중제목
+medium title
 -----
 ```
 +++
-### 소제목 H3
-#### 소제목 H4
-<h5 style="font-size:7em !important"> 소제목 H5</h5>
-<h6 style="font-size:5em !important"> 소제목 H6</h6>
+### small title H3
+#### small title H4
+<h5 style="font-size:0.7em !important"> small title H5</h5>
+<h6 style="font-size:0.5em !important"> small title H6</h6>
 ```markdown
-### 소제목 H3
-#### 소제목 H4
-##### 소제목 H5
-###### 소제목 H6
+### small title H3
+#### small title H4
+##### small title H5
+###### small title H6
 ```
 
 +++
-### 리스트 표현
-* 상위 목록
-  * 중위 목록
-    * 하위목록
-* 상위 목록
+### List
+* higher element
+  * middle element
+    * lower element
+* higher element
 
 ```markdown
-* 상위 목록
-  * 중위 목록
-    * 하위목록
-* 상위 목록
+* higher element
+  * middle element
+    * lower element
+* higher element
 ```
 
 +++
-### 코드 표현
+### Code
 ```python
-name  = input("이름이 무엇인가요? : ")
+name  = input("What is your name? : ")
 print("Hello, %s" %name)
 ```
 
 ```markdown
 '''python
-name  = input("이름이 무엇인가요? : ")
+name  = input("What is your name? : ")
 print("Hello, %s" %name)
 '''
 ```
 
 +++
-### 테이블 표현
-|목록 1|목록 2|
+### Table
+|thead|thead|
 |-|-|
-|요소|요소|
-|요소|요소|
+|tbody|body|
+|tbody|tbody|
 
 ```markdown
-|목록1|목록2|
+|thead|thead|
 |-|-|
-|요소|요소|
-|요소|요소|
+|tbody|body|
+|tbody|tbody|
 ```
 
 +++?image=markdown-512.png&size=auto 40%
-### 이미지 표현
-<br>
+### Image
 <br>
 <br>
 <br>
 <br>
 ```markdown
-![이미지별명](img-url)
 ![markdown](https://goo.gl/1BnoMr)
 ```
-
-+++
