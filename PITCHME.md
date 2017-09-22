@@ -9,10 +9,10 @@ title
 
 +++
 
-<span class="fragment">### No more <span style="color: #666666">WYSIWYG Editor.</span> </span>
-<span class="fragment">### No more <span style="color: #666666">Photoshop.</span> </span>
+### <span class="fragment">No more <span style="color: #666666">WYSIWYG Editor.</span> </span>
+### <span class="fragment">No more <span style="color: #666666">Photoshop.</span> </span>
 <br>
-<span class="fragment">### Just <span style="color: #e49436">Markdown.</span> </span>
+### <span class="fragment">Just <span style="color: #e49436">Markdown.</span> </span>
 <span class="fragment"> Then <span style="color: #e49436">Git-Commit.</span> </span>
 
 +++
