@@ -117,15 +117,15 @@ print("Hello, %s" %name)
 |요소|요소|
 |요소|요소|
 
-<div class="fragment">
 ```markdown
+<div class="fragment">
 |목록1|목록2|
 |-|-|
 |요소|요소|
 |요소|요소|
-
-```
 </div>
+```
+
 
 +++?image=markdown-512.png&size=auto 40%
 @[4]
@@ -137,7 +137,7 @@ print("Hello, %s" %name)
 <br>
 <br>
 ```markdown
-![이미지별명](이미지 url)
+![이미지별명](url)
 ![markdown](https://goo.gl/1BnoMr)
 ```
 
