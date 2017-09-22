@@ -12,14 +12,14 @@
 
 ![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
 
-<span class="fragment">Create README.md using GitHub flavored Markdown.</span>
+<span class="fragment">Create <span style="color: #e49436"> **README.md** </span> using **GitHub flavored Markdown**.</span>
 
 +++
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
 ![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
 
-<span class="fragment">Git-commit on any branch and push your README.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.</span>
+<span class="fragment"> <span style="color: #e49436">Git-commit</span> on any branch and push your <span style="color: #e49436"> **README.md** </span> to _GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket_.</span>
 ---
 # Why Markdown?
 +++
