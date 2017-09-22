@@ -110,7 +110,7 @@ print("Hello, %s" %name)
 ```python
 name  = input("이름이 무엇인가요? : ")
 print("Hello, %s" %name)
-\```
+```
 ```
 
 +++
