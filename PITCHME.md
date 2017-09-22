@@ -3,17 +3,19 @@ title
 
 ---?video=https://github.com/jjangga0214/enr1/raw/master/demo_0.0.1.mp4
 
++++
+
 ### GitHub turns <span style="color: #e49436; text-transform: none">README.md</span> into clean, easily-readable, online repository description.
 
----
++++
 
-### No more <span style="color: #666666">WYSIWYG Editor.</span> |
-### No more <span style="color: #666666">Photoshop.</span> |
+<span class="fragment">### No more <span style="color: #666666">WYSIWYG Editor.</span> </span>
+<span class="fragment">### No more <span style="color: #666666">Photoshop.</span> </span>
 <br>
-### Just <span style="color: #e49436">Markdown</span>.
-<span class="fragment"> Then <span style="color: #e49436">Git-Commit</span></span>.
+<span class="fragment">### Just <span style="color: #e49436">Markdown.</span> </span>
+<span class="fragment"> Then <span style="color: #e49436">Git-Commit.</span> </span>
 
----
++++
 
 <span style="color: #e49436">STEP 1. README.md</span>
 
@@ -21,12 +23,12 @@ title
 
 Create README.md using GitHub flavored Markdown in your favorite editor.
 
----
++++
 
-<span style="color: #e49436">STEP 1. README.md</span>
+<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
-![MARKDOWN](https://raw.githubusercontent.com/jjangga0214/enr1/master/demo_md_raw.bmp)
+![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
 
-Create README.md using GitHub flavored Markdown in your favorite editor.
+Git-commit on any branch and push your README.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
 
----
++++
