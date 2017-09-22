@@ -1,5 +1,5 @@
 
-![Markdown](https://github.com/jjangga0214/enr1/raw/master/markdown-512.png)
+# Markdown
 
 ---?video=https://github.com/jjangga0214/enr1/raw/master/demo_0.0.1.mp4
 
@@ -52,12 +52,68 @@ Git-commit on any branch and push your README.md to GitHub, GitLab, Bitbucket, G
 
 +++
 
-문서 제목
+문서제목
 ===
 
 ```markdown
-문서 제목
+문서제목
 ===
+```
+
++++
+
+중제목
+===
+
+```markdown
+중제목
+---
+```
+
++++
+
+### 소제목 `H3`
+#### 소제목 `H4`
+##### 소제목 `H5`
+###### 소제목 `H6`
+
+```markdown
+### 소제목 `H3`
+#### 소제목 `H4`
+##### 소제목 `H5`
+###### 소제목 `H6`
+```
+
++++
+### 리스트
+* 상위 목록
+  * 중위 목록
+  * 중위 목록
+    * 하위목록
+* 상위 목록
+```markdown
+### 리스트
+* 상위 목록
+  * 중위 목록
+  * 중위 목록
+    * 하위목록
+* 상위 목록
+```
+
++++
+
+### 코드 표현
+```python
+name  = input("이름이 무엇인가요? : ")
+print("Hello, %s" %name)
+```
+
+```markdown
+### 코드 표현
+```python
+name  = input("이름이 무엇인가요? : ")
+print("Hello, %s" %name)
+```
 ```
 
 +++
