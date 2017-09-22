@@ -48,8 +48,8 @@
 +++
 ### 소제목 H3
 #### 소제목 H4
-<h5> 소제목 H5</h5>
-<h6 style="font-size:10px !important"> 소제목 H6</h6>
+<h5 style="font-size:7em !important"> 소제목 H5</h5>
+<h6 style="font-size:5em !important"> 소제목 H6</h6>
 ```markdown
 ### 소제목 H3
 #### 소제목 H4
@@ -58,7 +58,7 @@
 ```
 
 +++
-### 리스트
+### 리스트 표현
 * 상위 목록
   * 중위 목록
     * 하위목록
@@ -107,7 +107,7 @@ print("Hello, %s" %name)
 <br>
 <br>
 ```markdown
-![이미지별명](url)
+![이미지별명](img-url)
 ![markdown](https://goo.gl/1BnoMr)
 ```
 
