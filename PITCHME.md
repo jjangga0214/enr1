@@ -117,7 +117,7 @@ print("Hello, %s" %name)
 |요소|요소|
 |요소|요소|
 
-
+<div class="fragment">
 ```markdown
 |목록1|목록2|
 |-|-|
@@ -125,6 +125,7 @@ print("Hello, %s" %name)
 |요소|요소|
 
 ```
+</div>
 
 +++?image=markdown-512.png&size=auto 40%
 @[4]
