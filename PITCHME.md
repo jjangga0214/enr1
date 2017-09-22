@@ -92,10 +92,10 @@ Git-commit on any branch and push your README.md to GitHub, GitLab, Bitbucket, G
 
 ```markdown
 ### 리스트
-\* 상위 목록
-  \* 중위 목록
-    \* 하위목록
-\* 상위 목록
+* 상위 목록
+  * 중위 목록
+    * 하위목록
+* 상위 목록
 ```
 
 +++
@@ -107,10 +107,10 @@ print("Hello, %s" %name)
 
 ```markdown
 ### 코드 표현
-\`\`\`python
+```python
 name  = input("이름이 무엇인가요? : ")
 print("Hello, %s" %name)
-\`\`\`
+\```
 ```
 
 +++
