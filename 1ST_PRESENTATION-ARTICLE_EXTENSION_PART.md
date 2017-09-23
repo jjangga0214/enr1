@@ -1,19 +1,18 @@
 워너원 1st Presentation - Grammar Extension Part
 ===
-전반적으로 잘 구성했어! 몰래 폰게임한거 비밀로 해달라는 스토리는 귀여웠다ㅋㅋ
-물론 내가 옳지 않을 수도 있지만, 그래도 더 문법적으로 더 적절한 표현이 있다고 보여지면 표시했고, 내용적인 측면에서 제안하ㄱ도 싶은 부분도 적어봤어
+물론 내가 옳지 않을 수도 있지만, 그래도 더 문법적으로 더 적절한 표현이 있다고 보여지면 표시했고, 내용적인 측면에서 제안하도 싶은 부분도 적어봤어 :)
 
 Example
 ---
-### conversation 1
+## conversation 1
 * **from**이 맞는지는 원어민한테 안 물어봐서 확실히 모르겠지만 더 적합해보여서 일단 표기해봤어 ^^;
-* facebook 같으 인터넷 사이트에 대해서 **in facebook**은 쓰지 않고, **on facebook**이라는 표현을 쓰는 것 같아. 친구들한테 이걸 알려줘도 좋을 수 있겠다~
+* facebook 같은 인터넷 사이트에 대해서 **in facebook**은 쓰지 않고, **on facebook**이라는 표현을 쓰는 것 같아. 친구들한테 이걸 알려줘도 좋을 수 있겠다~
 
 > `A` : When I saw you, you were looking at Facebook during office hours.
 >
 > `B` : I was looking for fresh idea ~~at~~/**from** IT group member ~~in~~/**on** Facebook.
 
-### conversation 2
+## conversation 2
 물론 우리 교재에서 `과거시제`와 `과거진행`에 포커스를 맞추고 있지만, 조금 더 확장해보면 어떨까 싶어. 아래 강조 표시한 것처럼 **have been studying** - 과거부터 현재까지 studying 해오고 있음 - 같이 `현재 완료 진행`이나 **wanna** -want to 의 줄임말- 같은 `은어`, **That's why** 같은 `관용적 표현` 등을 원래 표현하려 했던 `과거시제`나 `과거진행` [여기선 **was studying**] 과 같이 표현하고 설명해 준다면 꿩먹고 알먹고가 될 수도 있을것 같아~
 
 ##### original
@@ -32,7 +31,7 @@ Example
 * **have a conversation**  
   1. 대화가 이미 진행중인 상황에 쓴다
   2. 또는 대화가 진행중이지 않더라도, 별 어려움 없이 자연스레 이뤄지던 대화에 쓴다
-<br/>
+
 * **make a conversation**
   1. 대화가 아직 시작되지 않은 상황에 쓴다
   2. 또는 대화가 진행중이더라도, 사람들이 대화를 하기 원치 않는 상황 등 대화를 지속하기 어려운 상황에 쓴다
