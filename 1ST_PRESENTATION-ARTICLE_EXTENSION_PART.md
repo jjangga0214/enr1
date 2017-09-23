@@ -57,7 +57,7 @@ conversation 4
 
 conversation 5
 ---
-**hava to**가 사용됬는데, 이걸 **can't help V-ing**와 비교해서 설명하면 어떨까? 그냥 뜻을 겉으로 보면 비슷하지만 어감은 다르잖아? 내가 알기론...
+**have to**가 사용됬는데, 이걸 **can't help V-ing**와 비교해서 설명하면 어떨까? 그냥 뜻을 겉으로 보면 비슷하지만 어감은 다르잖아? 내가 알기론...
 
 * **have to V**: 반드시 V를 해야 한다. [의무 등]
   * 예시 : I had to finish assignment.
