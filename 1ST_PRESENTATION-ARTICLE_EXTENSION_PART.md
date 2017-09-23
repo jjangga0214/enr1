@@ -47,13 +47,14 @@ conversation 3
 conversation 4
 ---
 * 미국인들도 어쩌다 틀리는 표현 중 하나가 **its** 와 **it's** 이던데, 이 둘의 차이점을 추가적으로 간단히 짚고 넘어가는 건 어떨까 싶어
+* **tell someone (about) something** 이 tell을 쓸 때 적합한 구문이라고 해 [아래에선 **tell boss about it**] 
 * **tell** 이 등장한 김에, 비슷해 보이지만 서로 다른 어감과 의미인 **say**/**tell**/**talk**/**speak** 을 구별해서 설명해보면 어떨까? 이런 걸 학교에서 배우는 경험은 일반적으로 많지 않은 것 같지만, 회화나 작문에서는 필요한 부분이어서 어쩌면 재미있거나 유익할 수도 있을 것 같아.
 
 나는 [여기](http://www.englishsnack.pe.kr/oldsnack/grammar/speak.htm)를 참고해봤어.
 
 `A` : When I saw you, you were playing games on your mobile phone.  
 
-`B` : Sorry but I was really boring at that time. ~~Its~~/**It's** a secret.! Please don’t tell ~~tales~~ it to boss.
+`B` : Sorry but I was really boring at that time. ~~Its~~/**It's** a secret.! Please don’t ~~tell tales it to boss~~/**tell boss about it**.
 
 conversation 5
 ---
