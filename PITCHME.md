@@ -32,6 +32,11 @@
 ---
 # How to use?
 +++
+### <span class="fragment"> === </span>
+### <span class="fragment"> --- </span>
+### <span class="fragment"> # </span>
+### <span class="fragment"> * </span>
++++
 document title
 ===
 ```markdown
@@ -77,7 +82,26 @@ console.log("aaaa");
 ```
 
 +++
-### Code
+### Italic
+#### This is *Italic*
+```markdown
+This is *Italic*
+```
++++
+### Bold
+#### This is **Bold**
+```markdown
+This is **Bold**
+```
++++
+### Inline Code
+#### I'm coding `print("Hello World!")`
+```markdown
+I'm coding `print("Hello World!")`
+```
+
++++
+### Block Code
 ```python
 name  = input("What is your name? : ")
 print("Hello, %s" %name)
