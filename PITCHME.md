@@ -83,19 +83,19 @@ console.log("aaaa");
 
 +++
 ### Italic
-#### This is *Italic*
+#### <span style="font-weight:normal !important">This is</span> *Italic*
 ```markdown
 This is *Italic*
 ```
 +++
 ### Bold
-#### This is **Bold**
+#### <span style="font-weight:normal !important">This is</span> **Bold**
 ```markdown
 This is **Bold**
 ```
 +++
 ### Inline Code
-#### I'm coding `print("Hello World!")`
+#### <span style="font-weight:normal !important">I'm coding</span> `print("Hello World!")`
 ```markdown
 I'm coding `print("Hello World!")`
 ```
